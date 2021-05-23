@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8D191F9C-5072-1A78-5B9D-0BDC64F451AC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HelloCoroutine.cs">
+    <Files>
+      <File FileName="Assets/Fade.cs" Line="15" Column="11" />
+      <File FileName="Assets/HelloCoroutine.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Coroutine" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="HelloCoroutine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cfac3000-19be-4002-bddd-18753b51567f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
